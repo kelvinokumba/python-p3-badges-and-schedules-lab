@@ -1,5 +1,5 @@
 def badge_maker(name=""):
-    return (f"Hello, my name is {name}")
+    return f"Hello, my name is {name}"
 badge_maker()
 
 def batch_badge_creator(names):
